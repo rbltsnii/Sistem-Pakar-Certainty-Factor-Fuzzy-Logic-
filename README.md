@@ -41,16 +41,3 @@ Fuzzy Logic digunakan untuk mengatur kecepatan kipas AC secara dinamis berdasark
 🔁 *Fuzzy system mampu menyesuaikan kondisi tanpa logika biner (iya/tidak), memberikan fleksibilitas dalam pengambilan keputusan.*
 
 ---
-
-## 📁 Struktur Folder
-
-```bash
-Sistem-Pakar-Certainty-Factor-Fuzzy-Logic-/
-│
-├── CF/                         # Implementasi Certainty Factor
-│   └── cf_diagnosis.py
-│
-├── FuzzyLogic/                # Implementasi Fuzzy Logic AC
-│   └── fuzzy_ac_control.py
-│
-└── README.md                  # Dokumentasi proyek ini
